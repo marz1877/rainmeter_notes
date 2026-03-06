@@ -5,7 +5,8 @@ Show .txt from folder(s)
 <img width="491" height="409" alt="image" src="https://github.com/user-attachments/assets/8945e5de-37ff-4d21-bbf6-b53a6efb1f98" />
 
 # Feature 
-1. Use 1 to 7 different folders for each slot.
+1. Single Folder: `NotesPath="D:\Path1"` .
+1. Multiple FOlder: `NotesPath="D:\Path1;D:\Path2"` .
 2. Double click to open in Notepad.
 
 # Installation
