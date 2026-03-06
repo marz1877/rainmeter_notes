@@ -9,7 +9,7 @@ Show .txt from folder(s)
 2. Double click to open in Notepad.
 
 # Installation
-1. Download this repo [https://github.com/marz1877/rainmeter_image_show/archive/refs/heads/main.zip]
+1. [Download this repo](https://github.com/marz1877/rainmeter_notes/archive/refs/heads/main.zip)
 2. Extract it with all files inside a folder.
 3. Move folder under Rainmeter\Skins.
 4. Load the skin.
