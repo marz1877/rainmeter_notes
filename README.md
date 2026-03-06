@@ -1,10 +1,12 @@
 # Rainmeter Notes
+
 Show .txt from folder(s)
 
-<img width="538" height="519" alt="image" src="https://github.com/user-attachments/assets/912af9b5-2d4c-4698-b275-b70c95a0b2b6" />
+<img width="491" height="409" alt="image" src="https://github.com/user-attachments/assets/8945e5de-37ff-4d21-bbf6-b53a6efb1f98" />
 
 # Feature 
 1. Use 1 to 7 different folders for each slot.
+2. Double click to open in Notepad.
 
 # Installation
 1. Download this repo [https://github.com/marz1877/rainmeter_image_show/archive/refs/heads/main.zip]
